@@ -1,39 +1,31 @@
-# Hi, I'm Achuthan! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=10000&color=FF6B6B&random=false&width=500&height=70&lines=Hi%2C+I%27m+Achuthan!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ```python
-def current_status():
-    age: 21
-    role: "Research Intern @ IIT Madras"
-    focus: [
-        "Healthcare AI",
-        "Medical Diagnostics",
-        "Simulation Systems"
-    ]
-    research_domains: {
-        "medical": ["ECG Analysis", "Healthcare Systems", "Medical AI"],
-        "simulation": ["Particle Systems", "Chess Engines", "Physics Models"],
-        "interests": ["System Design", "Algorithm Development", "Research Implementation"]
+def about_me():
+    return {
+        "age": 21,
+        "current_role": "Research Intern @ IIT Madras",
+        "education": "B.Tech Student",
+        "research_interests": [
+            "Healthcare AI",
+            "Medical Diagnostic Systems",
+            "Physics Simulations"
+        ],
+        "coding_experience": [
+            "Machine Learning",
+            "Signal Processing",
+            "System Design"
+        ],
+        "after_hours": {
+            "sports": "Football ⚽",
+            "gaming": "PC Gaming 🎮",
+            "hobbies": "Custom PC Building & Setup"
+        }
     }
 ```
 
-## 🔬 Research & Development
-```javascript
-const currentWork = {
-    institution: "IIT Madras",
-    projects: [
-        "Medical Diagnostic Systems",
-        "Healthcare Data Analysis",
-        "Simulation Models"
-    ],
-    technologies: [
-        "Deep Learning",
-        "Signal Processing",
-        "Scientific Computing"
-    ]
-}
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=10000&color=38BDF8&random=false&width=500&height=45&lines=Tech+Stack+%F0%9F%9B%A0)](https://git.io/typing-svg)
 
-## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -41,7 +33,6 @@ const currentWork = {
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=10000&color=4ADE80&random=false&width=500&height=45&lines=Connect+With+Me+%F0%9F%93%AB)](https://git.io/typing-svg)
 
-## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
